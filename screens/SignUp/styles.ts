@@ -62,6 +62,7 @@ export const Input = styled.TextInput`
 	width: 100%;
 	border-radius: 24px;
 	font-size: 16px;
+	margin-bottom: 20px;
 `
 
 export const ButtonContainer = styled.View`
